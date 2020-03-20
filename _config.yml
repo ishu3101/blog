@@ -9,8 +9,8 @@ words_per_minute: 200
 baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Switcorn
+description: Web & Cloud Development Tutorials & Resources
 cover: assets/images/myblog-cover.png
 logo: assets/images/myblog-icon.png
 logo_dark: assets/images/myfavicon.png
