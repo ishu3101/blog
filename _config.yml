@@ -34,6 +34,9 @@ disqus_shortname: jekyller # replace with your disqus username
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
+# display the published with at the bottom of the page in the footer.
+published_with: false
+
 # Permalinks
 permalink: /:title
 # permalink: /author/:author
