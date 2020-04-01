@@ -11,7 +11,7 @@ baseurl: /
 # Website info
 title: Switcorn
 description: Web & Cloud Development Tutorials & Resources
-cover: assets/images/myblog-cover.png
+background-cover: assets/images/myblog-cover.png
 logo: assets/images/myblog-icon.png
 logo_dark: assets/images/myfavicon.png
 favicon: assets/images/myfavicon.png
